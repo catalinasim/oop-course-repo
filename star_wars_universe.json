@@ -1,0 +1,31 @@
+{"entities": [
+  {
+    "isHumanoid": false,
+    "id": 0,
+    "traits": [
+      "HAIRY",
+      "TALL"
+    ],
+    "planet": "Kashyyyk",
+    "age": 253
+  },
+  {
+    "isHumanoid": false,
+    "id": 12,
+    "traits": [
+      "HAIRY",
+      "SHORT"
+    ],
+    "planet": "Endor",
+    "age": 34
+  },
+  {
+    "id": 13,
+    "traits": [
+      "HAIRY",
+      "TALL"
+    ],
+    "planet": "Kashyyyk",
+    "age": 352
+  }
+]}
