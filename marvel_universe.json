@@ -1,0 +1,49 @@
+{"entities": [
+  {
+    "id": 4,
+    "traits": [
+      "SHORT",
+      "BULKY"
+    ],
+    "planet": "Earth"
+  },
+  {
+    "isHumanoid": true,
+    "id": 7,
+    "traits": [
+      "BLONDE",
+      "TALL"
+    ],
+    "planet": "Asgard",
+    "age": 2034
+  },
+  {
+    "isHumanoid": true,
+    "id": 15,
+    "traits": [
+      "BLONDE",
+      "TALL"
+    ],
+    "planet": "Earth",
+    "age": 451
+  },
+  {
+    "isHumanoid": true,
+    "id": 18,
+    "traits": [
+      "BLONDE",
+      "TALL"
+    ],
+    "planet": "Asgard"
+  },
+  {
+    "isHumanoid": true,
+    "id": 19,
+    "traits": [
+      "BLONDE",
+      "POINTY_EARS"
+    ],
+    "planet": "Earth",
+    "age": 451
+  }
+]}

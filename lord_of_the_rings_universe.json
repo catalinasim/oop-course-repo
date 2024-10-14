@@ -1,0 +1,32 @@
+{"entities": [
+  {
+    "isHumanoid": false,
+    "id": 2,
+    "traits": ["BULKY"]
+  },
+  {
+    "isHumanoid": true,
+    "id": 5,
+    "traits": ["BULKY"]
+  },
+  {
+    "isHumanoid": true,
+    "id": 9,
+    "traits": [
+      "SHORT",
+      "BULKY"
+    ],
+    "planet": "Earth",
+    "age": 124
+  },
+  {
+    "id": 10,
+    "planet": "Endor"
+  },
+  {
+    "isHumanoid": false,
+    "id": 20,
+    "planet": "Endor",
+    "age": 22
+  }
+]}
